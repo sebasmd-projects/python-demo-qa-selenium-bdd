@@ -1,0 +1,10 @@
+{
+    "NOMBRE_DEL_ARCHIVO": "configuracion_general.json",
+    "ENTORNOS_DISPONIBLES":{
+        "LOCAL": "local",
+        "DESARROLLO": "desarrollo",
+        "PRODUCCION": "produccion",
+        "QA": "qa"
+    },
+    "ENTORNO":""
+}
